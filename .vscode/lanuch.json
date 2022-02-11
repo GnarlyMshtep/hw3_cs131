@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [{
+        "type": "java",
+        "name": "matan's launch process",
+        "request": "launch",
+        "mainClass": "Pigzj",
+        "args": "-p 1 <Qhw.pdf >out_Qhw.pdf",
+        "console": "integratedTerminal"
+    }],
+    "compounds": []
+}
